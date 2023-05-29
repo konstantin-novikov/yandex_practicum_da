@@ -3,7 +3,7 @@
 # Задача
 Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей
 
-<a href="https://public.tableau.com/app/profile/nvk2023.nbk2024/viz/_ver2_16807741050840/Dashboard1?publish=yes">Дашборд Яндекс.Дзен</a>
+<a href="https://public.tableau.com/app/profile/nvk2023.nbk2024/viz/_ver2_16807741050840/Dashboard1?publish=yes">Дашборд Яндекс.Дзен</a> <br>
 <a href="https://disk.yandex.ru/d/YmaNn1wWN5L_0Q">Презентация Яндекс.Дзен</a>
 
 
